@@ -4,10 +4,7 @@
     {
         public void Log(string message)
         {
-
             /* some logic */
-
         }
-
     }
 }
