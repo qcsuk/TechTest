@@ -1,0 +1,13 @@
+﻿Question 2:
+
+Refactor the code in this namespace to achieve 2 goals:
+ 
+    1. Make the Bartender and Cocktail classes static
+    2. Remove the AddGarnish method from the Glass class
+
+ 
+You must also obey the following 3 rules while refactoring:
+ 
+    A. Ensure the Martini's ingredients do not change
+    B. Ensure the Bartender can't add the Garnish before the Spirits
+    C. Do not add or remove any classes or allow any empty classes
