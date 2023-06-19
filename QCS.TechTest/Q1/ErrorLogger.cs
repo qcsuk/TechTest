@@ -7,6 +7,5 @@
             var message = $"Error {e.Message} occurred at: {DateTime.UtcNow}";
             base.Log(message);
         }
-
     }
 }
