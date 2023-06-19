@@ -1,4 +1,4 @@
 ﻿Question 1:
 
-Refactor the code in this namespace so that the Error and CommandLogger classes can both continue to use
+Refactor the code in this namespace so that the ErrorLogger and CommandLogger classes can both continue to use
 the Log method but without the use of inheritance or statics to achieve this.
